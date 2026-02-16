@@ -4,9 +4,7 @@
 
 ## Author
 
-Vishakha Medha Rao,
-The Awty International School,
-December 2025
+Vishakha Medha Rao, The Awty International School, December 2025
 
 ## Overview
 
